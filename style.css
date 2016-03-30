@@ -1,0 +1,25 @@
+.block{
+	position: absolute;
+	margin-left: 100px;
+	margin-top:-5px;
+	width: 100px;
+	height: 20px;
+	background-color: red;
+	border: 5px solid brown;
+}
+.block1{
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	background-color: blue;
+	border: 5px solid brown;
+	margin-top:-5px;
+}
+.block2{
+	position: absolute;
+	width: 100px;
+	height: 20px;
+	background-color: green;
+	border: 5px solid brown;
+	margin-top:-5px;
+}
